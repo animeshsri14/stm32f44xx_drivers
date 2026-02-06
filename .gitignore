@@ -1,0 +1,14 @@
+# IDE files
+.settings/
+.project
+.cproject
+Debug/
+
+# OS files
+.DS_Store
+._*
+
+# Build artifacts
+*.o
+*.elf
+*.list
